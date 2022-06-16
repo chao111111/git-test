@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("gitee test!  xinzeng !!");
         System.out.println("gitee test!  xinzeng !!");
         System.out.println("push  新增 !!");
+        System.out.println("pull  新增 !!");
 }
 }
